@@ -1,0 +1,4 @@
+player	question	proportion
+12	How good was the collaboration between you and player %s?	0.269461077844
+12	How likable did you find player %s?	0.280239520958
+12	How fair did you think player %s was?	0.589221556886
